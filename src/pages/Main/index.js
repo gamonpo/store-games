@@ -19,7 +19,7 @@ import sd from '../../assets/pictures/shards-of-darkness.png'
 import hzd from '../../assets/pictures/horizon-zero-dawn.png'
 import ff from '../../assets/pictures/fifa-18.png'
 
-export default function Main({navigation}) {
+export default function Main() {
   const games = [
     {
       "id": '312',
